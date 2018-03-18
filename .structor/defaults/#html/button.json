@@ -1,0 +1,24 @@
+[
+  {
+    "type": "button",
+    "variant": "default",
+    "props": {},
+    "children": [
+      {
+        "type": "span",
+        "text": "Button"
+      }
+    ]
+  },
+  {
+    "type": "button",
+    "variant": "myModel",
+    "props": {},
+    "children": [
+      {
+        "type": "span",
+        "text": "Button"
+      }
+    ]
+  }
+]
